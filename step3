@@ -1,0 +1,10 @@
+step 2: how to use 
+------ git mergetool
+----- git reverse
+----- git log
+------ git worktree
+------ git cherry pick
+------  git apply
+------  git rebase
+------ interact between  azure devops github by using git
+?? is it possible to configure builds and pipelines in github 
